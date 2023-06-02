@@ -22,6 +22,10 @@ cd Snake
 python snake.py
 ```
 
+## Demo
+
+[![Snake](https://i.ytimg.com/vi/-t5DL45yCr8/0.jpg)](https://www.youtube.com/watch?v=-t5DL45yCr8)
+
 **MacOS Mojave**: You need to use Python 3.7.2 or greater: [Source](https://github.com/pygame/pygame/issues/555)
 
 ## Contact
