@@ -10,8 +10,8 @@ Snake is a classic video game from the mid-1970s that has remained popular ever 
 
 This version is a clone of the original snake game incorporated as the default game on Nokia phones in 1998.
 
-<img src="https://imgur.com/sweP24m" width="300" height="240" />
-<img src="https://imgur.com/zX8yjFj" width="300" height="240"/>
+<img src="https://i.imgur.com/sweP24m.png" width="300" height="240" />
+<img src="https://i.imgur.com/zX8yjFj.png" width="300" height="240"/>
 
 ## How To Play
 
